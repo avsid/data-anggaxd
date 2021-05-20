@@ -1,1 +1,1 @@
-Mozilla/5.0 (Linux; Android 4.1.2; GT-I9300 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/275.0.0.49.127;]
+Mozilla/5.0 (Linux; U; Android 4.3; en-in; ASUS_T00J Build/JSS15Q) AppleWebKit/534.30 (KHTML, like Gecko) [FB_IAB/FB4A;FBAV/275.0.0.49.127;]
